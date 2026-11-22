@@ -35,7 +35,9 @@ public class Day1 {
         driver.manage().window().maximize();
         
         
+        driver.findElement(By.id("name"));
         
         
+  
     }
 }
